@@ -24,13 +24,12 @@ Outside of data, I enjoy playing soccer as I played college in soccer as a stude
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building a healthcare data cleaning + validation pipeline in Python to catch missing values, duplicates, and outliers.
+- **Project B:** Developing a Revenue Cycle & Billing Insights dashboard in Power BI to track charges, payments, denials, and trends.
 
 ## 🌱 Currently Learning 
 
-- Python (pandas, NumPy) for cleaning, transforming, and analyzing real-world healthcare and business datasets
+- Building a Patient Experience & Quality Dashboard in Tableau to track satisfaction trends, complaint categories, and service performance.
 - Predictive analytics in Python (scikit-learn) for forecasting and risk-based insights in healthcare and business use cases
 
 ## 🛠️ Technical Skillset
