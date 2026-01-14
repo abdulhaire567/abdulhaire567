@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Abdulhaire Rahaman 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -9,19 +9,18 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:abdulhairer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a data analyst passionate about helping organizations make sense of their data and turn it into clear, actionable insights. I enjoy transforming messy, complex datasets into clean reporting and meaningful stories that support better decision-making.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I’m interested in working across both business and healthcare, including hospital environments where data can directly improve efficiency and outcomes. My focus is on building dashboards that people actually use, automating repetitive tasks, and creating reports that help teams stay aligned and informed.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Outside of data, I enjoy playing soccer as I played college in soccer as a student athlete, and I’m always learning new ways to sharpen my skills. I love the “aha!” moment when the numbers reveal something unexpected—and it turns into an insight that makes a real difference.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://abdulhaire567.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -31,8 +30,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Python (pandas, NumPy) for cleaning, transforming, and analyzing real-world healthcare and business datasets
+- Predictive analytics in Python (scikit-learn) for forecasting and risk-based insights in healthcare and business use cases
 
 ## 🛠️ Technical Skillset
 
